@@ -6,12 +6,12 @@ The sql statement is provided inside the soln.sql file.
 
 To test the validity of the sql statement, the following test cases are derived:
 
-Test Case 1: User has installation record on that day and use the app at least once
-Test Case 2: User has installation record on that day and have not used the app
-Test Case 3: User has installation record on another day and use the app at least once
-Test Case 4: User has installation record on another day and have not used the app
-Test Case 5: User does not have record and use the app at least once
-Test Case 6: User does not have record and have not used the app
+1. User has installation record on that day and use the app at least once
+2. User has installation record on that day and have not used the app
+3. User has installation record on another day and use the app at least once
+4. User has installation record on another day and have not used the app
+5. User does not have record and use the app at least once
+6. User does not have record and have not used the app
 
 For test case 1, 3, and 5, two record sets are created. One for multiple access records and one for single access record.
 
