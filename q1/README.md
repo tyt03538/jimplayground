@@ -23,3 +23,8 @@ The command file specifies the database, table creations and record insertions.
 
 Please note that the testing table will be dropped. Do the necessities to prevent any data loss.
 
+Expected Output:
+```
+usage_count
+2
+```

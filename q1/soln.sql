@@ -1,4 +1,4 @@
-select count(*)
+select count(*) as usage_count
 from (
 select uid
   from piwik_track_test u1
