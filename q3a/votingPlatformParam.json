@@ -1,0 +1,31 @@
+[
+  {
+    "ParameterKey": "CacheClusterNodes",
+    "ParameterValue": "1"
+  }, 
+  {
+    "ParameterKey": "CacheClusterNodeType",
+    "ParameterValue": "cache.t2.micro"
+  },
+  {
+    "ParameterKey": "CacheClusterSubnetGroupName",
+    "ParameterValue": "default"
+  },
+  {
+    "ParameterKey": "LambdaCodeBucket",
+    "ParameterValue": "voting-poc"
+  },
+  {
+    "ParameterKey": "LambdaCodePath",
+    "ParameterValue": "deploy-package.zip"
+  },
+  {
+    "ParameterKey": "VPCSecurityGroupIDs",
+    "ParameterValue": "sg-da3305b2"
+  },
+  {
+    "ParameterKey": "VPCSubnetIDs",
+    "ParameterValue": "subnet-2b526c50,subnet-19661954,subnet-49728921"
+  }
+]
+
